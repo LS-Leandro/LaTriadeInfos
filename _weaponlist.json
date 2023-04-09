@@ -1,0 +1,15 @@
+[
+    {
+      "keyword": "BP_Weapon_Block21",
+      "name": "BP_Weapon_Block21",
+      "image": ".data/weaponimage/_weaponlist.json",
+      "description": ""
+    },
+    {
+      "keyword": "Mine_01",
+      "name": "Mine_01",
+      "image": ".data/weaponimage/Mine_01.png",
+      "description": ""
+    }
+  ]
+  
