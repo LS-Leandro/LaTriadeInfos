@@ -1,21 +1,8 @@
-[
-    {
-      "keyword": "BP_Weapon_Block21",
-      "name": "BP_Weapon_Block21",
-      "image": ".data/weaponimage/_weaponlist.json",
-      "description": ""
-    },
-    {
-      "keyword": "Mine_01",
-      "name": "Mine_01",
-      "image": "https://imgur.com/0jQ11bM.png",
-      "description": ""
-    },
-    {
-      "keyword": "ICO_Trap_Mine_01",
-      "name": "ICO_Trap_Mine_01",
-      "image": "https://imgur.com/0jQ11bM.png",
-      "description": ""
-    }
-  ]
- 
+{
+  "BP_Weapon_MK18": "mk18.png",
+  "Mine_01": "Mine_01.png",
+  "Mine_02": "small_anti_personnel_mine.png",
+  "PromTrap": "prom_1_mine.png",
+  "BP_C4": "",
+  "Claymore": "claymore.png"
+}
