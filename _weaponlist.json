@@ -1,5 +1,14 @@
 {
   "BP_Weapon_MK18": "mk18.png",
   "Mine_01": "Mine_01.png",
-  "BPC_Weapon_AK15": "AK15.png"
+  "BPC_Weapon_AK15": "AK15.png",
+  "Weapon_AK47": "AK47.png",
+  "BPC_Weapon_AK47_Engraved": "AK47ENGRAVED.png",
+  "BPC_Weapon_AKM": "AKM.png",
+  "BP_Weapon_AKS_74U": "AKS_74U.png",
+  "BP_Weapon_AS_Val": "AS_Val.png",
+  "BP_Weapon_AWM": "AWM.png",
+  "BP_Weapon_AWM_Desert": "AWMDESERT.png",
+  "BP_Weapon_AWM_Green": "AWMGREEN.png",
+  "BP_Weapon_AWM_Snake": "AWMSNAKE.png"
 }
