@@ -3,7 +3,7 @@
 
   "BP_Weapon_MK18": "mk18.png",
   "BPC_Weapon_AK15": "AK15.png",
-  "Weapon_AK47": "AK47.png",
+  "BP_Weapon_AK47": "AK47.png",
   "BPC_Weapon_AK47_Engraved": "AK47ENGRAVED.png",
   "BPC_Weapon_AKM": "AKM.png",
   "BP_Weapon_AKS_74U": "AKS_74U.png",
@@ -12,6 +12,7 @@
   "1H_Bushman": "1H_Bushman.png",
   "1H_Crowbar": "1H_Crowbar.png",
   "2H_Baseball_Bat": "2H_Baseball_Bat.png",
+  "StakePitTrap": "StakePitTrap.png",
 
 
 
