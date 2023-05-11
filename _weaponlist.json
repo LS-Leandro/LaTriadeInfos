@@ -187,7 +187,9 @@
   "Fists/Legs": "FistsLegs.png",
   "Fists/Legs [Melee] S": "FistsLegs.png",
   "Fists/Legs [Melee]": "FistsLegs.png",
-  "Fists/Legs [Melee] S:": "FistsLegs.png"
+  "Fists/Legs [Melee] S:": "FistsLegs.png",
+  "S:": "bleeding.png",
+  " S:": "bleeding.png"
 
 
 
